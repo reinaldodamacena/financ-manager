@@ -1,1 +1,1 @@
-# financ-manager
+# asset-manager
